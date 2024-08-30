@@ -1,0 +1,61 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h2{
+    font-size: 45px;
+}
+body{
+    background-image: url(./Images/bg4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: wheat;
+}
+#intro{
+    background-image: url(./Images/bg5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: 100% 100%;
+}
+.edu{
+    font-family: DM Serif Text;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.education{
+    font-family: Montserrat;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#skills{
+    font-family: DM Serif Text;
+    display: flex;
+    justify-content: center;
+}
+.contacthead{
+    font-family: DM Serif Text;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contactext{
+    font-family: Montserrat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
